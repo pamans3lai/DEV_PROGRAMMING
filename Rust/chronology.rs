@@ -6,5 +6,14 @@ fn main() {
 
 command:
 
+. $HOME/.cargo/env
 
-cargo add ferris-says
+cargo new hello-rust  // bikin program rust berisi hello-rust
+
+source $HOME/.cargo/env  // bikin rust kebaca di semua environment
+
+cargo add ferris-says // menambahkan dependencies di cargo.toml, bisa juga pake tulis manual di
+// file cargo.toml berisi [dependencies] ferris-says ="0.3.1" 
+
+cargo build // install dependencies yang telah di-add
+
