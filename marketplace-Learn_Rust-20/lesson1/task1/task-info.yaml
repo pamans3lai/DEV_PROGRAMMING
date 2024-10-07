@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: build.gradle
+    visible: true
+  - name: src/main/java/com/example/android/course/MainActivity.kt
+    visible: true
+  - name: src/main/AndroidManifest.xml
+    visible: true
+  - name: src/main/res/layout/activity_main.xml
+    visible: true
+  - name: src/main/res/values/strings.xml
+    visible: true
+  - name: src/main/res/values/colors.xml
+    visible: true
+  - name: src/main/res/values/themes.xml
+    visible: true
+  - name: src/main/res/values-night/themes.xml
+    visible: true
+  - name: src/test/java/com/example/android/course/ExampleUnitTest.kt
+    visible: false
+    propagatable: false
+  - name: src/androidTest/java/com/example/android/course/AndroidEduTestRunner.kt
+    visible: false
+    propagatable: false
+  - name: src/androidTest/java/com/example/android/course/ExampleInstrumentedTest.kt
+    visible: false
+    propagatable: false
