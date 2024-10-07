@@ -3,3 +3,8 @@
 fn main() {
     println!("Hello, world!");
 }
+
+command:
+
+
+cargo add ferris-says
