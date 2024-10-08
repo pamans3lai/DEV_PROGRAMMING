@@ -1,0 +1,24 @@
+type: edu
+custom_name: Hangman - Finish The Game
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/hangman/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/hangman/Util.kt
+    visible: false
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/hangman/Words.kt
+    visible: false
+    learner_created: false
+  - name: test/Core.kt
+    visible: false
+    learner_created: false
+  - name: test/HangmanTestUtil.kt
+    visible: false
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/Hangman/Finish+the+game
+status: Unchecked
+record: -1

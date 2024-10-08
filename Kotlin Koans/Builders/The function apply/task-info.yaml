@@ -1,0 +1,22 @@
+type: edu
+custom_name: The function apply
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 44
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 44
+        initialized_from_dependency: false
+        encrypted_possible_answer: e6q73DJafCDwTJxGT6+LXfajF1ye17rMLiU0XeSqvLI=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

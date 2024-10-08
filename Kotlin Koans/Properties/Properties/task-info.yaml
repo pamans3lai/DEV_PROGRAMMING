@@ -1,0 +1,22 @@
+type: edu
+custom_name: Properties
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 95
+        length: 3
+        placeholder_text: set
+        initial_state:
+          length: 3
+          offset: 95
+        initialized_from_dependency: false
+        encrypted_possible_answer: T43Nzu4POeGF6H3JGeZ5OHqrcK6dnWFZW4PW/nUpV1mJ33qPpIYlUBqvwsvUbM/qIsNxnsFvP/iDnbZQ6hX/+A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

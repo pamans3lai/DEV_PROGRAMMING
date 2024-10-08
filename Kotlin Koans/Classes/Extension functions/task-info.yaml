@@ -1,0 +1,32 @@
+type: edu
+custom_name: Extension functions
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 30
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 30
+        initialized_from_dependency: false
+        encrypted_possible_answer: +dWbxqweB4pF06I+SIpR4c+3CfhME/xImFTdEP8Qya8=
+        selected: false
+        status: Unchecked
+      - offset: 79
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 79
+        initialized_from_dependency: false
+        encrypted_possible_answer: fdjFBwAZnHLSezsWCZwZY5pP+YhOmrnoGV/Z527tPi8=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

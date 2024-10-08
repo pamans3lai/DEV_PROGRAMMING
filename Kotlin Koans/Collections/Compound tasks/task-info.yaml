@@ -1,0 +1,48 @@
+type: edu
+custom_name: Compound tasks
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 193
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 193
+        initialized_from_dependency: false
+        encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4ss2wHG7AzwoknAR65y17SOUG+l3ZBePgXKyUW4pSl+oNjIuEU85yArAiHiklC/igFDiCsSWA67k8sF7NUE3pjoO5afZATcErnZ9/Zs7taZK9urEua10145a2qzD9Qt6rhOUPDd9RGhqeTwQ+vcHCa1IN9aF2mMPsF42BHt/MY1gQ5EDuJsLqKuezaRhuis3sjA==
+        selected: false
+        status: Unchecked
+      - offset: 393
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 393
+        initialized_from_dependency: false
+        encrypted_possible_answer: KCADkUWeK88RYKnwSa+Idplx6+4og4iMiY7lGQfI2K8GOnjhSLFXSxL8ejbMhv4vF1x8Ltj4DjRQL59qRSiHAsxKXNGEA1rPV+eFsNtIKTKzPmkFZpdI0f4Voy3bTbZLUB8pNGiAIF2CtZGbciCFbg==
+        selected: false
+        status: Unchecked
+      - offset: 462
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 462
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZocLMxe+VftzD4HmgfaVOyNDtml6VM/iJI/u201O/Rg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Shop.kt
+    visible: true
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+  - name: test/TestShop.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

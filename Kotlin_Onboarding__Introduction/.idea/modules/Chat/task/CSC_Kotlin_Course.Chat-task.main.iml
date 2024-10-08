@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Chat-task:main" external.linked.project.path="$MODULE_DIR$/../../../../Chat/task" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="CSC_Kotlin_Course" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 11" allPlatforms="JVM [11]" useProjectSettings="false">
+        <compilerSettings />
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../Chat/task/build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="11" />
+            <stringArg name="moduleName" arg="Chat-task" />
+            <stringArg name="apiVersion" arg="2.0" />
+            <stringArg name="languageVersion" arg="2.0" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/2.0.0/11209b97b2495fb3755f2e2e4fb64abb7cd9b4c0/kotlin-scripting-jvm-2.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/2.0.0/f90871227cdcd06fd4fecb086fa03e7fa375bae3/kotlin-scripting-common-2.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.0.0/b48df2c4aede9586cc931ead433bc02d6fd7879e/kotlin-stdlib-2.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/2.0.0/fdc27dd047d592fa41d2dfa21e7621287a361612/kotlin-script-runtime-2.0.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
+    <output url="file://$MODULE_DIR$/../../../../Chat/task/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Chat/task/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Chat/task/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Chat/task/src/main/kotlin" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.academy.test.system:core:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.0" level="project" />
+    <orderEntry type="module" module-name="CSC_Kotlin_Course.utils.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.20" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.20" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-console:1.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.8.20" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-reporting:1.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-launcher:1.9.0" level="project" />
+  </component>
+</module>

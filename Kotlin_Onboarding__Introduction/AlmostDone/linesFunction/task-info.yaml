@@ -1,0 +1,15 @@
+type: theory
+custom_name: Console Photoshop - lines Function
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/almost/done/Images.kt
+    visible: false
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/almost/done/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/almost/done/PreDefinedSymbols.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

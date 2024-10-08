@@ -1,0 +1,12 @@
+type: theory
+custom_name: Story twister - Program Entry Point
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/first/date/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/first/date/RealQuestions.kt
+    visible: false
+    learner_created: false
+status: Solved
+record: 2
+post_submission_on_open: true

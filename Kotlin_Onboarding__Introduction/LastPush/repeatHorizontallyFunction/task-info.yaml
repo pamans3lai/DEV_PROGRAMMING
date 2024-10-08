@@ -1,0 +1,32 @@
+type: edu
+custom_name: Patterns Generator - repeatHorizontally Function
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/last/push/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/last/push/Patterns.kt
+    visible: false
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/last/push/PreDefinedSymbols.kt
+    visible: false
+    learner_created: false
+  - name: test/CanvasGenerator.kt
+    visible: false
+    learner_created: false
+  - name: test/CanvasWithGapsGenerator.kt
+    visible: false
+    learner_created: false
+  - name: test/Helpers.kt
+    visible: false
+    learner_created: false
+  - name: test/MainClass.kt
+    visible: false
+    learner_created: false
+  - name: test/PatternsGeneratorTestsUtils.kt
+    visible: false
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

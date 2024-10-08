@@ -1,0 +1,32 @@
+type: edu
+custom_name: Smart casts
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 72
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 72
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0jTQ2/y+bX7DpTLUxdQUmg==
+        selected: false
+        status: Unchecked
+      - offset: 101
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 101
+        initialized_from_dependency: false
+        encrypted_possible_answer: OQRt2jAjSqs/opsojU2ziv75WtpqXozBKa0U4k1km4XH+aCH/f05CZtd7sn0/v9R
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

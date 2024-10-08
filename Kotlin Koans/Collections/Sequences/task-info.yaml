@@ -1,0 +1,48 @@
+type: edu
+custom_name: Sequences
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 193
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 193
+        initialized_from_dependency: false
+        encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4ss2wHG7AzwoknAR65y17SOUG+l3ZBePgXKyUW4pSl+oNiBaIgN2qHDgmLruCtxOIxoNRLiogg5EspiXvF5rwhhSPcpbQ/q39Ev/cPREN5L8Va9V3IRzYCpaDC90FY+pEXH8qYQOhohljTd0LjpO/DHGqmxo/fVFdrZT5a9FSaUqnKDdExduG6/aEC6Cu4B9cVinlZD9WeRiMuA2yJovzTPKf2o3ADWr+ACb8IrM4tDpt
+        selected: false
+        status: Unchecked
+      - offset: 393
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 393
+        initialized_from_dependency: false
+        encrypted_possible_answer: KCADkUWeK88RYKnwSa+IdgU7fySiQvYvqd3zHMWgRXRnnrJfoHoyZq2iRO/T0ii9gl8p+54Nd5Ks87u2vWQN762bwQHzJ0PauT4F/rnURXeMCh11NrY/thY9KmDfYDizzfleqXxqVDM7j2k9zU8V6yNKBV3E/dab1g9V3NgeVOT20USgHFHzi1kqPxdVDYAO
+        selected: false
+        status: Unchecked
+      - offset: 466
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 466
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZocLMxe+VftzD4HmgfaVO+rlo3f7oTnP+hMx23Y+gSO5YzC1eYGyxz0W7Oqe+4nF
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+  - name: test/TestShop.kt
+    visible: false
+    learner_created: false
+  - name: src/Shop.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,22 @@
+type: edu
+custom_name: String and map builders
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 26
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 26
+        initialized_from_dependency: false
+        encrypted_possible_answer: hqAg774QUxkCIQsPstuMQPqusLCcarGwNVNpsftGTsXm7E1ORzbOARHU9UpBNZi5WX+enUjGyTBO5MXsld3THn0gDLnoDpwowmhjIlsIjXX3BXELCR1fOARLiW9tFgAwrKTyaP7a7OHNfLUFHwhEhf4XFcozZEGKYPsmbEVYi1MqHHUbxrC1atDelzMo0Fhe
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

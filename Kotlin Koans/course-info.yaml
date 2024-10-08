@@ -1,0 +1,20 @@
+type: marketplace
+title: Kotlin Koans
+language: English
+summary: Kotlin Koans are a series of exercises to get you familiar with the Kotlin
+  syntax
+programming_language: Kotlin
+content:
+  - Introduction
+  - Classes
+  - Conventions
+  - Collections
+  - Properties
+  - Builders
+  - Generics
+mode: Study
+vendor:
+  name: JetBrains s.r.o.
+  email: support@jetbrains.com
+  url: https://www.jetbrains.com/
+feedback_link: https://plugins.jetbrains.com/plugin/16628-kotlin-koans/reviews

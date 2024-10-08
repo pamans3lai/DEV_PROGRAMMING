@@ -1,0 +1,22 @@
+type: edu
+custom_name: Delegates examples
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 75
+        initialized_from_dependency: false
+        encrypted_possible_answer: mqR3DpLcXPGdwVhOr9eJMer616LgZ64/yZPUoe4DS+I=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

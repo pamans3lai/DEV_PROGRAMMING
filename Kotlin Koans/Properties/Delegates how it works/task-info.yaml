@@ -1,0 +1,35 @@
+type: edu
+custom_name: Delegates how it works
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 302
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 302
+        initialized_from_dependency: false
+        encrypted_possible_answer: vPSaVhz17nkz4EJEE7JhAZQywS93JNqaciLvci2hwCs=
+        selected: false
+        status: Unchecked
+      - offset: 403
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 403
+        initialized_from_dependency: false
+        encrypted_possible_answer: lGYl25FEahUObMfhNiqWlTZOjfHI5Jy4NLDAtUPCzos=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MyDate.kt
+    visible: true
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

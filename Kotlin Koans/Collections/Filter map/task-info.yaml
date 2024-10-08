@@ -1,0 +1,38 @@
+type: edu
+custom_name: Filter map
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 106
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 106
+        initialized_from_dependency: false
+        encrypted_possible_answer: Cm/VZjyWEXn+fUJ1SZSuxnNIZ3DaUV+wzVytQTiaSyhNX7rOWqt1ZhaY3QuvSFC3
+        selected: false
+        status: Unchecked
+      - offset: 223
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 223
+        initialized_from_dependency: false
+        encrypted_possible_answer: v3tjneNUfFawjzlV+QJfqev+l+oLHTTo96oo9QrS7UUo2uh6xfwBtx0f5Z2OeYk9
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Shop.kt
+    visible: true
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+  - name: test/TestShop.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

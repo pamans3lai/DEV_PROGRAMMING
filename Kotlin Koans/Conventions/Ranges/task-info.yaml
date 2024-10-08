@@ -1,0 +1,25 @@
+type: edu
+custom_name: Ranges
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 82
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 82
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8RBLigRtZEaCep3r8cFv2oppuwfQwbY3UiYGgGUYzow=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/MyDate.kt
+    visible: true
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

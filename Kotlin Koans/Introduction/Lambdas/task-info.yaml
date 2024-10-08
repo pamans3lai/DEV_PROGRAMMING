@@ -1,0 +1,22 @@
+type: edu
+custom_name: Lambdas
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 82
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 82
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5ZwwLjCo8t6256mPG5/QKg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,12 @@
+type: theory
+custom_name: Mastermind - Boolean Operators
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/warmup/Util.kt
+    visible: false
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/warmup/Main.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,23 @@
+type: edu
+custom_name: Hangman - generateSecret Function
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/hangman/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/hangman/Util.kt
+    visible: false
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/hangman/Words.kt
+    visible: false
+    learner_created: false
+  - name: test/Core.kt
+    visible: false
+    learner_created: false
+  - name: test/HangmanTestUtil.kt
+    visible: false
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

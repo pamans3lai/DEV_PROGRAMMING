@@ -1,0 +1,38 @@
+type: edu
+custom_name: Max min
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 122
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 122
+        initialized_from_dependency: false
+        encrypted_possible_answer: l0SbWz0YkMWgfwB+Eh6z61uUiWZ+COW9ZUWdPZNYkHIG32ptFBuWslYne2+MI9WZ
+        selected: false
+        status: Unchecked
+      - offset: 281
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 281
+        initialized_from_dependency: false
+        encrypted_possible_answer: flxgeB1YaElTz4gODi2D3J+usEQJHTbRU0rfA2B7XFBECQKP+rIal/IywZmmSbikbVhDSobKH8kexjXTkZabN3K6kHQCV9M10n66vqwnk7NfhqRAWHO1RPFBe3iQeybjxuHnE7hKt++fVk2hHKOwsg==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: src/Shop.kt
+    visible: true
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+  - name: test/TestShop.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

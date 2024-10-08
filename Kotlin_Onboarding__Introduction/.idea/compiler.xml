@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="CSC_Kotlin_Course.AlmostDone-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.AlmostDone-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.Chat-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Chat-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.FeedbackSurvey-Survey.main" target="11" />
+      <module name="CSC_Kotlin_Course.FeedbackSurvey-Survey.test" target="11" />
+      <module name="CSC_Kotlin_Course.gifs.main" target="11" />
+      <module name="CSC_Kotlin_Course.gifs.test" target="11" />
+      <module name="CSC_Kotlin_Course.Hangman-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Hangman-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.Introduction-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.LastPush-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.LastPush-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.main" target="11" />
+      <module name="CSC_Kotlin_Course.MastermindAdvanced-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.MastermindAdvanced-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.test" target="11" />
+      <module name="CSC_Kotlin_Course.TheFirstDateWithProgramming-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.TheFirstDateWithProgramming-task.test" target="11" />
+      <module name="CSC_Kotlin_Course.utils.main" target="11" />
+      <module name="CSC_Kotlin_Course.utils.test" target="11" />
+      <module name="CSC_Kotlin_Course.WarmUp-task.main" target="11" />
+      <module name="CSC_Kotlin_Course.WarmUp-task.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

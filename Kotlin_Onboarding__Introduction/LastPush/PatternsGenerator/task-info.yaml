@@ -1,0 +1,16 @@
+type: theory
+custom_name: Patterns Generator - Introduction
+files:
+  - name: src/main/kotlin/jetbrains/kotlin/course/last/push/Main.kt
+    visible: true
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/last/push/Patterns.kt
+    visible: false
+    learner_created: false
+  - name: src/main/kotlin/jetbrains/kotlin/course/last/push/PreDefinedSymbols.kt
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/Last+push/Patterns+generator+projects
+status: Unchecked
+record: -1
+post_submission_on_open: true

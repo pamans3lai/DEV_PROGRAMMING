@@ -1,0 +1,42 @@
+type: edu
+custom_name: Getting used to new style
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 137
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 137
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5xZ76gPm7TTXonFYA25gbQ==
+        selected: false
+        status: Unchecked
+      - offset: 213
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 213
+        initialized_from_dependency: false
+        encrypted_possible_answer: A4BWdJx9J/z5f/pUpXwkgg==
+        selected: false
+        status: Unchecked
+      - offset: 285
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 285
+        initialized_from_dependency: false
+        encrypted_possible_answer: RKQNDgG8q9giOxGFSf/hh0RQQFeeS/9x24aj5KBkSWJ0FCK2GWFAE2QJi53Gc+Wg
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
