@@ -1,0 +1,10 @@
+
+
+h4.
+Always remeber that the goal of statistics is not to perform numerous calculations using the formulae, but to gain understanding of your data. The calculations can be done by the calculator or computer. The understanding must come from you. If you can thoroughly grasp the basics of statistics, you can be more confident in the decisions you make in life.
+
+h6. 
+Probability is the mathematical theory used to study uncertainty. it  provides tools for the formalization and quantification of the notion of uncertainty. In particular, it deals with the chance of an event occuring.
+
+h6.
+statistics exploits pattern regularity in order to make extrapolations from the observed sample to the entire population.
