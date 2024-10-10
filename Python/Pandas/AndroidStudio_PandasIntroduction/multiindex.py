@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 
 # Sample DataFrame
@@ -22,3 +23,10 @@ index_tuples = pd.MultiIndex.from_tuples(index_tuples, names=['City', 'Category'
 df = df.set_index(["City", "Category"])
 print(df)
 print(df.index)
+
+print(sys.argv[0])
+
+print(sys.argv[1])
+
+print(sys.argv[2])
+print(sys.argv[3])
