@@ -13,3 +13,7 @@ membaca: learn.microsoft.com/en-us/training/modules/intro-to-python
 
 
 learn.microsoft.com/en-us/training/modules/python-create-run-program
+
+Oct 14, 2024 , 23:42
+
+https://realpython.com/python-sets/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=python-lists-tuples
