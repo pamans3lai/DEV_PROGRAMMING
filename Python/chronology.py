@@ -17,3 +17,9 @@ learn.microsoft.com/en-us/training/modules/python-create-run-program
 Oct 14, 2024 , 23:42
 
 https://realpython.com/python-sets/?utm_source=realpython&utm_medium=web&utm_campaign=related-post&utm_content=python-lists-tuples
+
+Oxt, 17, 2024, 21.30
+learn on realpython on phone.
+    evaluation: lewat 3 hari tidak input data di chronology.
+        sisa yg dikerjakan: belajar 3x antara jam ini ke jam 24 today.
+
