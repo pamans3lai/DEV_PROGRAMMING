@@ -23,3 +23,9 @@ learn on realpython on phone.
     evaluation: lewat 3 hari tidak input data di chronology.
         sisa yg dikerjakan: belajar 3x antara jam ini ke jam 24 today.
 
+https://realpython.com/readme-python-project/
+reading: urgensi README file.
+
+Oct 18, 2024
+
+review Introducing to Python di Android Studio
