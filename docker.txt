@@ -1,0 +1,34 @@
+
+
+gpg: directory '/root/.gnupg' created
+gpg: keybox '/root/.gnupg/pubring.kbx' created
+Note: Use "gpg --full-generate-key" for a full featured key generation dialog.
+
+GnuPG needs to construct a user ID to identify your key.
+
+Real name: pamans3lai
+Email address: muchtarihsan@gmail.com
+You selected this USER-ID:
+    "pamans3lai <muchtarihsan@gmail.com>"
+
+Change (N)ame, (E)mail, or (O)kay/(Q)uit? O
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+gpg: /root/.gnupg/trustdb.gpg: trustdb created
+gpg: directory '/root/.gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/root/.gnupg/openpgp-revocs.d/8C4F2A9D4ACF2A86B0F2B643E50C803101A9B889.rev'
+public and secret key created and signed.
+
+pub   ed25519 2024-10-23 [SC] [expires: 2027-10-23]
+      8C4F2A9D4ACF2A86B0F2B643E50C803101A9B889
+uid                      pamans3lai <muchtarihsan@gmail.com>
+sub   cv25519 2024-10-23 [E] [expires: 2027-10-23]
+
+root@ubuntu2404lts:/home/ai/Downloads# 
+
