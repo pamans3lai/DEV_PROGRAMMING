@@ -1,1 +1,1 @@
-puts "hai hai DOCKER!"
+puts "DOCKER!" 
