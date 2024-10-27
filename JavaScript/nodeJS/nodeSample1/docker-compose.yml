@@ -1,0 +1,29 @@
+version: '3'
+services:
+  web:
+    build:
+      context: .
+      dockerfile: dockerfile
+    image: nodejs:23-alpine
+    ports:
+      - "3000:3000"
+    depends_on:
+      - db
+    environment:
+      - DATABASE_URL=postgres://user:password@db:1234/database
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_DB=database
+  volumes:
+    - db-data:/var/lib/postgreql/data
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  db-data:
+  node_modules:

@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-sample1",
+  "version": "23-alpine",
+  "description": "nodejs sample1 dockerize",
+  "author": "ai <pamans3lai@gmail.com>",
+  "license": "MIT",
+  "main": "server.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
