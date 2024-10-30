@@ -13,3 +13,6 @@ Oct, 29, 2024. 15:54
 evaluasi: lewat 12 hari tanpa membaca PHP-enabled
 plan: baca dokumentasi per hari 10 menit tiap hari, bikin jadwal membaca 30 menit untuk tiap language
 
+Oct, 30, 2024. 07:23
+
+https://www.php.net/manual/en/language.types.intro.php

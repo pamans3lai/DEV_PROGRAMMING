@@ -1,3 +1,4 @@
 <?php
-echo "Hi, I'am a PHP script";
+$kata = "olah raga";
+echo "Hi, sudah $kata!";
 ?>
