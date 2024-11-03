@@ -70,3 +70,7 @@ Thumbs.db
 !.gitignore
 !.nvmrc
 !.phpcs.xml.dist
+
+
+/Ruby/docker-ruby-on-rails
+/Ruby/RoR/docker/docker-ruby-on-rails
