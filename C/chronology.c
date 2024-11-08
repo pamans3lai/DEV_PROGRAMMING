@@ -8,3 +8,13 @@ Oct 17, 2024
 evaluasi: lewat 9 hari tidak membaca lagi C.
 masih bisa baca 3 chapter hingga jam 24
 
+Nov 8, 2024
+  today: 
+evaluasi: lewat hampir 4 pekan sejak terakhir. tepatnya 21 hari. berarti ada 21 sub bab yg harus dikejar.
+3 subbab per hari.
+
+https://www.w3schools.com/c/c_variables.php
+
+Nov 9, 2024: 04:59
+ */
+
