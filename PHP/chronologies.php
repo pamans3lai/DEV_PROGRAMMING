@@ -16,3 +16,6 @@ plan: baca dokumentasi per hari 10 menit tiap hari, bikin jadwal membaca 30 meni
 Oct, 30, 2024. 07:23
 
 https://www.php.net/manual/en/language.types.intro.php
+
+Oct, 8, 2024
+evaluasi: 9 hari setelah terakhir membuka php
