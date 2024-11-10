@@ -21,3 +21,6 @@ Oct 17, 2024
 reading chapter 2: function and comment
 plan: read 3 again at 21, 22, 23, today.
 
+
+Nov 10, 2024. 
+read til Cargo
