@@ -21,3 +21,7 @@ Oct, 8, 2024
 evaluasi: 9 hari setelah terakhir membuka php
 
 https://www.php.net/manual/en/language.types.type-system.php
+
+Oct, 11, 2024.
+
+evaluasi: tiga hari lewat.
