@@ -1,22 +1,17 @@
-use std::path::Path;
-
 use async_trait::async_trait;
 use loco_rs::{
-    app::{AppContext, Hooks, Initializer},
-    bgworker::{BackgroundWorker, Queue},
+    app::{AppContext, Hooks},
+    bgworker::Queue,
     boot::{create_app, BootResult, StartMode},
     controller::AppRoutes,
-    db::{self, truncate_table},
     environment::Environment,
     task::Tasks,
     Result,
 };
-use migration::Migrator;
-use sea_orm::DatabaseConnection;
 
-use crate::{
-    controllers, initializers, models::_entities::users, tasks, workers::downloader::DownloadWorker,
-};
+use crate::controllers;
+#[allow(unused_imports)]
+use crate::tasks;
 
 pub struct App;
 #[async_trait]
@@ -36,36 +31,20 @@ impl Hooks for App {
     }
 
     async fn boot(mode: StartMode, environment: &Environment) -> Result<BootResult> {
-        create_app::<Self, Migrator>(mode, environment).await
-    }
-
-    async fn initializers(_ctx: &AppContext) -> Result<Vec<Box<dyn Initializer>>> {
-        Ok(vec![Box::new(
-            initializers::view_engine::ViewEngineInitializer,
-        )])
+        create_app::<Self>(mode, environment).await
     }
 
     fn routes(_ctx: &AppContext) -> AppRoutes {
-        AppRoutes::with_default_routes() // controller routes below
-            .add_route(controllers::auth::routes())
+        AppRoutes::empty() // controller routes below
+            .add_route(controllers::home::routes())
     }
 
-    async fn connect_workers(ctx: &AppContext, queue: &Queue) -> Result<()> {
-        queue.register(DownloadWorker::build(ctx)).await?;
+    async fn connect_workers(_ctx: &AppContext, _queue: &Queue) -> Result<()> {
         Ok(())
     }
 
+    #[allow(unused_variables)]
     fn register_tasks(tasks: &mut Tasks) {
-        tasks.register(tasks::seed::SeedData);
-    }
-
-    async fn truncate(db: &DatabaseConnection) -> Result<()> {
-        truncate_table(db, users::Entity).await?;
-        Ok(())
-    }
-
-    async fn seed(db: &DatabaseConnection, base: &Path) -> Result<()> {
-        db::seed::<users::ActiveModel>(db, &base.join("users.yaml").display().to_string()).await?;
-        Ok(())
+        // tasks.register(TASK);
     }
 }
