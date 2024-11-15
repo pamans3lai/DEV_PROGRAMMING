@@ -29,3 +29,16 @@ reading: urgensi README file.
 Oct 18, 2024
 
 review Introducing to Python di Android Studio
+
+Nov, 16, 2024: 09:06
+
+sebulan kurang 2 hari ga update python.
+
+    evaluasi: 
+bikin leetcode day dan codewars day di hari senin dan jumat
+update leetcode dan codewars 1 challenge tiap jam 3 pagi dan 8 malam
+update pandas dan polars di jam 12 malam, 6 pagi, dan 1 siang
+
+PS> python -m venv venv
+PS> .\venv\Scripts\activate
+(venv) PS>
