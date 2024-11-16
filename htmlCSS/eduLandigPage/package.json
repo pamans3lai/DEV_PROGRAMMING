@@ -1,0 +1,10 @@
+{
+  "name": "eduLandigPage",
+  "packageManager": "yarn@4.4.1",
+  "devDependencies": {
+    "parcel": "^2.13.0"
+  },
+  "dependencies": {
+    "pnpm": "^9.13.2"
+  }
+}

@@ -11,6 +11,9 @@ importers:
       ruby:
         specifier: ^0.6.1
         version: 0.6.1
+      yarn:
+        specifier: ^1.22.22
+        version: 1.22.22
 
 packages:
 
@@ -20,6 +23,11 @@ packages:
   ruby@0.6.1:
     resolution: {integrity: sha512-TjMB+HyxathhcgvtQ3jkYWWjW3t9q+3VPLe0jpsm1x8tryXJ3626rO6gQ+0S12Oyac+Glp6KDuy1JBdKND+eSQ==}
 
+  yarn@1.22.22:
+    resolution: {integrity: sha512-prL3kGtyG7o9Z9Sv8IPfBNrWTDmXB4Qbes8A9rEzt6wkJV8mUvoirjU0Mp3GGAU06Y0XQyA3/2/RQFVuK7MTfg==}
+    engines: {node: '>=4.0.0'}
+    hasBin: true
+
 snapshots:
 
   lodash@4.17.21: {}
@@ -27,3 +35,5 @@ snapshots:
   ruby@0.6.1:
     dependencies:
       lodash: 4.17.21
+
+  yarn@1.22.22: {}
