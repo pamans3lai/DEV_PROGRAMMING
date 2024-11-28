@@ -24,3 +24,8 @@ plan: read 3 again at 21, 22, 23, today.
 
 Nov 10, 2024. 
 read til Cargo
+
+
+Non, 28, 2024.
+
+lewat 2 pekan sejak terakhir menulis di sini
