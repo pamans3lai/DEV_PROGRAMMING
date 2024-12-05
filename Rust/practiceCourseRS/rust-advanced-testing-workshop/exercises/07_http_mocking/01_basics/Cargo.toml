@@ -1,0 +1,16 @@
+[package]
+name = "wiremock_basics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.79"
+reqwest = { workspace = true }
+semver = "1.0.21"
+serde_json = { workspace = true }
+thiserror = "1.0.56"
+
+[dev-dependencies]
+googletest = { workspace = true }
+tokio = { workspace = true }
+wiremock = { workspace = true }

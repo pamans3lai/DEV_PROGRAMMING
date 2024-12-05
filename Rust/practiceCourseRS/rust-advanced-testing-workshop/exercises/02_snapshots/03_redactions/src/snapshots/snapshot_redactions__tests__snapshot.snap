@@ -1,0 +1,14 @@
+---
+source: exercises/02_snapshots/03_redactions/src/lib.rs
+expression: api_response
+---
+{
+  "code": 201,
+  "created_at": "[timestamp]",
+  "payload": {
+    "features": [
+      "serde",
+      "json"
+    ]
+  }
+}

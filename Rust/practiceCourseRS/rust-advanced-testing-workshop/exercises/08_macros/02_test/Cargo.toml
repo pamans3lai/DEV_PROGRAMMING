@@ -1,0 +1,8 @@
+[package]
+name = "keep_or_add"
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+googletest = { workspace = true }
+macros02 = { path = "macros02" }
