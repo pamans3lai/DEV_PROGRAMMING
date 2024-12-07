@@ -1,6 +1,6 @@
-fn main() {
-    // You can optionally experiment here.
-}
+// fn main() {
+//     // You can optionally experiment here.
+// }
 
 #[cfg(test)]
 mod tests {
@@ -15,4 +15,8 @@ mod tests {
         z.push(13);
         assert_eq!(x, [42, 13]);
     }
+}
+
+fn main() {
+    // You can optionally experiment here.
 }
