@@ -2,6 +2,8 @@
 // the `use` and `as` keywords.
 
 mod delicious_snacks {
+    use self::fruits::PEAR as fruit;
+    use self::veggies::CUCUMBER as veggie;
     // TODO: Add the following two `use` statements after fixing them.
     // use self::fruits::PEAR as ???;
     // use self::veggies::CUCUMBER as ???;
@@ -15,6 +17,8 @@ mod delicious_snacks {
         pub const CUCUMBER: &str = "Cucumber";
         pub const CARROT: &str = "Carrot";
     }
+    delicious_snacks()
+
 }
 
 fn main() {

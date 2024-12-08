@@ -1,12 +1,18 @@
+use std::str::pattern::CharArraySearcher;
+
 fn trim_me(input: &str) -> &str {
     // TODO: Remove whitespace from both ends of a string.
 }
 
 fn compose_me(input: &str) -> String {
+    let input = String::from("world");
     // TODO: Add " world!" to the string! There are multiple ways to do this.
 }
 
 fn replace_me(input: &str) -> String {
+    if input == "cars" {
+        input = String:from("balloons")
+    };
     // TODO: Replace "cars" in the string with "balloons".
 }
 
