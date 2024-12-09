@@ -31,6 +31,18 @@ fn build_scores_table(results: &str) -> HashMap<&str, TeamScores> {
         // Keep in mind that goals scored by team 1 will be the number of goals
         // conceded by team 2. Similarly, goals scored by team 2 will be the
         // number of goals conceded by team 1.
+        // team team_1_score
+        let persija = scores.entry(team_1_name).or_default();
+        // update nilai
+        persija.goals_scored += team_1_score;
+        persija.goals_conceded += team_2_score;
+
+        // team 2
+        let arema = scores.entry(team_2_name).or_default();
+        //update nilai
+
+        arema.goals_scored += team_2_score;
+        arema.goals_conceded += team_1_score;
     }
 
     scores

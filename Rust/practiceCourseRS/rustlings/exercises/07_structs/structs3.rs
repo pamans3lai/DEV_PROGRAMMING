@@ -1,6 +1,8 @@
 // Structs contain data, but can also have logic. In this exercise, we have
 // defined the `Package` struct, and we want to test some logic attached to it.
 
+use std::u32;
+
 #[derive(Debug)]
 struct Package {
     sender_country: String,
@@ -24,13 +26,16 @@ impl Package {
     }
 
     // TODO: Add the correct return type to the function signature.
-    fn is_international(&self) {
+    fn is_international(&self) -> bool {
+        self.sender_country != self.recipient_country
         // TODO: Read the tests that use this method to find out when a package
         // is considered international.
     }
 
     // TODO: Add the correct return type to the function signature.
-    fn get_fees(&self, cents_per_gram: u32) {
+    fn get_fees(&self, cents_per_gram: u32) -> u32 {
+        self.weight_in_grams * cents_per_gram
+
         // TODO: Calculate the package's fees.
     }
 }
