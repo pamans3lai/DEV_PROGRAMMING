@@ -28,4 +28,14 @@ read til Cargo
 
 Non, 28, 2024.
 
-lewat 2 pekan sejak terakhir menulis di sini
+lewat 2 pekan sejak terakhir menulis di stringify!(
+)
+
+    Jan, 14, 2025. sejak terakhir menulis di stringify!(
+
+http://localhost:3000/ownership/ownership.html
+) nomor 5.
+
+selanjutnya: jan, 14 2025, jam 19.00 nomor 5.
+
+selanjutnya: jan, 14 2025, jam 19.00
