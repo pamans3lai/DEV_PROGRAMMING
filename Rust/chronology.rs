@@ -38,4 +38,11 @@ http://localhost:3000/ownership/ownership.html
 
 selanjutnya: jan, 14 2025, jam 19.00 nomor 5.
 
-selanjutnya: jan, 14 2025, jam 19.00
+selanjutnya: jan, 14 2025, jam 19.00a
+
+today jan 22. 2025. berarti sudah lewat 8 hari sejak terakhir update
+
+ilmu baru: cargo watch -q -c -x 'run -q'
+untuk menampilkan result coding rust setelah build yang lebih clean
+
+update rust tiap 1 jam.
