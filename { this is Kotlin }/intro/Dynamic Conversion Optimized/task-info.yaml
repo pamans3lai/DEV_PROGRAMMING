@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: img.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: src/DynamicConversionOptimized.kt
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7gESryb7jtROaLYF+VKfF0XwnPETxbZ4BbGLsItIiMvyCHDnRafb/h7EiQRJBR1g1vk74aoQm3lvWE4y0uTdoEFrivws/ANEizWoAGoKpteA3kmlMDQPWTAR5j7jrC/16O9uxv1uNE7Chjv8+T9BflRlYJcVvyXyFL8TtY3WcXohhkEmGFncG3cNZg5GWmi7vF8nEjyuxGKQ+TqFtb9/n1d/UG+0MzRdwTJdZoC0Q/4=
+        selected: false
+        status: Unchecked
+      - offset: 112
+        length: 8
+        placeholder_text: = TODO()
+        initial_state:
+          length: 8
+          offset: 112
+        initialized_from_dependency: false
+        encrypted_possible_answer: I8jZJSgCbD6a2eu7HKOjXJIT4uWmkasHrNNInAv4GlVb3iKE2xYO9ko92+Qrln5ypvLd2k5nAq37maaQ+H0X651vpjYwXNyIFP5UDJzcn8os4gR4Onwqh2efA+gJkGCjasmgVZhwaDeCaDue4DBKxparoShKCrDU78MQHx8BgG4BNtRV1TtOKVL3UBtWggnPM0B3CEqhYNy9ZpAzlRkKjw1pzZnZH57Ct+nhS98KLzemNtCMk9l3Cjwo8VkaN4G9SxffWMixWubhS0CdGGMDapK3Ta+SeDQnhoY7Sfav34zh0qnX4OFBUm/ecwNpkcQvYWOs9AYp/hi/xueLfc655pSFtZgp+kMpXhLeOPpqsDcBQhJkpjkDKDmV0C0TqW+X9az6yFJdCYyMDcsMw37NNyUqpIrYn3jzGXAPTloSQJru/JypiR61WWjE+gfa+KAA
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/DynamicConversionOptimizedTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

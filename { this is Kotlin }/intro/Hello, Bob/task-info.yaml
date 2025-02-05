@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/HelloBob.kt
+    visible: true
+    placeholders:
+      - offset: 32
+        length: 21
+        placeholder_text: //your code goes here
+        initial_state:
+          length: 21
+          offset: 32
+        initialized_from_dependency: false
+        encrypted_possible_answer: eZoVhNG4dMKVNwuTlg3/Ox9Cvb5thKSkw3U8qeqmrfC2NoXp9rWT0UUpMY3/ul4zIIm5ssoqEafm3isCQlNCgAbyYaY/1PscMUkcaKZhXnYR2elVe5FxfrEuhDkcAr8g
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/HelloBobTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,4 +1,4 @@
-## Getting used to new style
+## Getting used to the new style
 
 We can rewrite and simplify the following code using lambdas and operations on collections.
 Fill in the gaps in `doSomethingWithCollection`, 
@@ -7,7 +7,7 @@ so that its behavior stays the same and isn't modified in any way.
 
 ```kotlin
 fun doSomethingWithCollectionOldStyle(
-    collection: Collection
+    collection: Collection<String>
 ): Collection<String>? {
     val groupsByLength = mutableMapOf<Int, MutableList<String>>()
     for (s in collection) {

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/CallMillionaire.kt
+    visible: true
+    placeholders:
+      - offset: 239
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 239
+        initialized_from_dependency: false
+        encrypted_possible_answer: n3dQCLCDDn4rkNLkzw7fK+VNee4I6Cn4XlKD6PMw/mN0xHR5JyLVf7HnowI1hJjE8xsDxoQICYF5nXSD52ajZHgynrbQFiH4YGVnXwvA7mDyTCHpEivGIFN4Sk1b03HtqpR0Bl7iaQP1f9o/qrciK2ruW8Z22L+clOg43NJlKqbs+Njz1JQ+9jxan8qa+px3pjUUAcmZ4uXqQi1kCVGANUmjdGkzmoe9V0Q5ted/Zh8uriEpnrlNsYFJtIinIFbqfLGKHIEPJ7V/L7QeBTvdhUDzlQnNfGRexuxh41CTLnbWMOwJH5TsvgIw2+oOsdFVJnIES8tnED+FHbPKKZ2mtDmJpXUxXVDWOl5YHCRMdFnkk+Qz/oOUpq7n49dwyMfrj0QksD1f8wPeYhfYcKEeclXQOUc/vfO6dVXFVIB6a3+0i2y+vXzUzy+uOe61IsK+K5kwZPa05cPhNJ8j56egBpZh6G+wrbKWDsYF9O3sj5pt9G37bP0hCE1MWG8pIpQNIMF8MgRH9WxI9QvfB4JhuOt7Zk1Mmyq5kA3Rce306xDOdnCi+gMg8pVDqmrMGbOM79nLbCHSbi0bPgPF7Kw8at4L1o/usyJPzc0/2UtCLDh/pkVCV54PkPB1AOWkWMnfTkF0PedtnyERzMpBPqd3nasZn/Nlk3DDtuKz1lMSVQ4ahd1J7D8K/nWqrKCQ/pOyQqHEOUrfkVhqS+IqGMSnXsBO4BroYJTSXwsqPBgZHxXRoo+tW9EwlyUL1ga5ozJdEBdLaB3oOmfgGOpge1djImTE8Mg2gKh2h5twjiq4GH+hZKwtDc24MqR1WZXQ+7pfOGLq1jXTeQMnillwWaiSjdG5sc74rDxxE9F9uqe1PckjDlKqCw4AUfGOL+OJiLZMybePWCBaNLCM+QWTfBRj94JHN/AOIko/geiUxShSLzsrl1rgcjb0RJ3Om9f9hZwU45VXDD4efj4e2Fdm9DnEndiL+w4jVQ/V2f/4aTBjGX0HpAInFmTC21BT20VasuDl6MA3mdnv/g2o9NmaIHLynjFLNNTSiHnPoky4BgsObPq6Hdwmc2EVx8j0SYDgESPNnghC85JKtg1dAN5pYx9FgCMwgDhBHEUy/lJYkyCrTgMcNnPqOhPDYRBw+b+9umZ93Kt5G1wumXWrbGBi44HwItLDu+9ZX8zkwdYRVWxqdF0L0XEpf4QC7OaTrGpIxdIVFyVI/QGASpINiN5i/PrIbY+7GDxOxN/xchXZdQQRXydhscwufAYb6HXfAAX6HNlJA4HW6+iBApcVf4w10SZprXCkYgIMWJ9w+lih2LZpQr72aq7bHgHUxsxQ05VTl9JRDjgBo3a58qamtatY7/SWfs5BfGnVESJ+7srkuvw5Ex3FshZiBvU5mNpbbhPWjcoJmCS13jtHhOj6qNICg9UdVTrUgaspVU/SJAF00JfqL/l2PlqFXM10cKdM9DG+5BjVb3hGD4vdpK7pbYG03iRd7zvrPI5R0vEujUQ3iN5qo/ENX+bG7N/kklW1jzmd/8B09GMDp6zYvhap2cpWUVVfw91/5Aha6m9LsSbwBrA8v5HpZKX9j3AysYJSXGBgacLuiJiAp/lvi4bpzSCJx/7E3+sTC3Ooqr0pmelrswtt+kimbAEnB6emM84IsU04jcjy
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CallMillionaireTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

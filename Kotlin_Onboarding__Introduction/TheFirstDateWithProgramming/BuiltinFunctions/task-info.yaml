@@ -11,5 +11,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/The+first+day+with+programming/Built-in+functions
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 31 Jan 2025 11:01:20 UTC"
+record: 5

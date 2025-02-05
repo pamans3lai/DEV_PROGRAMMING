@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/DynamicConversion.kt
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7gESryb7jtROaLYF+VKfF0XwnPETxbZ4BbGLsItIiMvyCHDnRafb/h7EiQRJBR1g1vk74aoQm3lvWE4y0uTdoEFrivws/ANEizWoAGoKpteA3kmlMDQPWTAR5j7jrC/1YH3caDV0nVpYjHFXaOYpHwQBsB9ynAuIh1r3TuUdTQYEtIgivit8DWtRruZEFo76wgG+oqw0GpxLabpnt+pPs+SNb4K2N4UsCUmxPkZ9/UhnGClncuNs3bJehDOo4qB7q6vBvfLkmKC5f62I4q0StrJj4Npmp6H/Ybl12eWa1wzC3yTQQ3hwYCv3yXBhrDV5lO9ocw9szX+JfN9LlcfAMt6PAl6clbp4TiSU2q+6vOor5f01gQpyGxY5NF+gdYrSEojKo+Vig8bqLS+hfXPA1ZHzBGMGXkd236tJ2awuaNGIu9qaaRZOxKevJkoUIneX
+        selected: false
+        status: Unchecked
+      - offset: 114
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 114
+        initialized_from_dependency: false
+        encrypted_possible_answer: O7P8MLbphzQ/EWd6hk4ouNUxU3DlRiHces9e8naoC1/PfRLUWe1IkxYeUBhfL9NgiaBToqEGhZZAl3vBcMXE3ZsuwscSCKK7fKZpjwqfDkSrF+cmNO/ndhAzQoic7HCoeCvYuEDnz6CdxYcJlpRvgTAPpVOQLfvfw5x6sRFCDrwrF33FYzAy/Z8bus5MymZR/hyodwEcWyUXd3bGFUQdHE48eB8dtdkgKqc+qHTjUck=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/DynamicConversionTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

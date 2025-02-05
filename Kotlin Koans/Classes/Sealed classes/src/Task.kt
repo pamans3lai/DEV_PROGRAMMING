@@ -5,5 +5,5 @@ fun eval(expr: Expr): Int =
         }
 
 interface Expr
-class Num(val value: Int) : Expr
-class Sum(val left: Expr, val right: Expr) : Expr
+class Num(val value: Int) : TODO()
+class Sum(val left: Expr, val right: Expr) : TODO()

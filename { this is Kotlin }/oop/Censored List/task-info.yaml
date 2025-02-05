@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/CensoredList.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 22
+        placeholder_text: // your code goes here
+        initial_state:
+          length: 22
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4PpEmtzccpP/w2iyz6htYwLoj1sE7QzdSaIypJftYlfBFmmwPnzNIV0K2AQ0/LEc54jdyn47bQsx6XM+0L2UYfn/shVUADskzSGL8zb0EMvvRP+dZb/SzuM4OTEQP2ZjMyGcd7URnS3LsdylXOBMgs693bXaOjVcrAC35DipUFeJNjeDotwbl9wUWtpqZKotH/FKX0MkYH1C3dv5lp+od3Pn1P8bXJddPcZKyD8nrpOWwRegvhNsXyT4JItMgcnnMCIcz/uTOvjNviniEUMtqIcmaomd21lytZVBoY9OFMjwEnWHHHghtwacB+0bxug4b1PVI35awPnYlds006Z3LvutR7E/RLMsw8wHV0+66mzv970Rl4C2WbIsxDKEJi2E4p8GgbNuch+GHs4zJnaAsgS7QDUWbkXBnMm9SFxF+RADwHXVI3OJ4ozQRCBGkS8MoYOxEnWApbnjaOqFr3jFt6LPvHDtY3tB2eiiKlZ4xGnvU3J3GmPSm9pjE/LWryWSUjCRvX7IP2mzbnAaDaY57j7wQ33tEOeL10pNA9fFIVuauGWME4mBfTSnsnH9XliBnJNQXdxuiJGsbq619b+N1m2mzqGxjPGazix+12FKyUWl4D4sw1gZMSnTycnkCpbEaXdJ4oxWwrgY2QgB4HLqoQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/CensoredListTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

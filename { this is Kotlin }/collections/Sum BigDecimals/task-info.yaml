@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/SumBigDecimals.kt
+    visible: true
+    placeholders:
+      - offset: 29
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 29
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZhtFK3hRsNVISsDhnSe2Ad7JCLR/DYNNGBJnpJ5Q4m535qTixvmq5Tv8Q1btsh5GRyZdtbIznKKU9V4OnidqVXPJUV6QwCZP5gLRmEy91nL9Y4NA+kDW22gWSUN0EtSA
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/SumBigDecimalsTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

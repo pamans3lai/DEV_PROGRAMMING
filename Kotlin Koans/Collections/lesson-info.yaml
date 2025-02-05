@@ -3,13 +3,13 @@ content:
   - Sort
   - Filter map
   - All Any and other predicates
-  - Max min
-  - Sum
-  - GroupBy
   - Associate
+  - GroupBy
   - Partition
   - FlatMap
-  - Fold
+  - Max min
+  - Sum
+  - Fold and reduce
   - Compound tasks
-  - Getting used to new style
   - Sequences
+  - Getting used to new style

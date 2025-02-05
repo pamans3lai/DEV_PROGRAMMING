@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: 4PpEmtzccpP/w2iyz6htYwLoj1sE7QzdSaIypJftYlfBFmmwPnzNIV0K2AQ0/LEc54jdyn47bQsx6XM+0L2UYZX0O3i7dojynptCa/U/5ZCXjIFnm2tDxYADaAG8f26awja/C5s6XzCEvrYYHYPNvLhtSiksMu7YehFex4BQRLmXStzoZaKcHPvdin+3J4Z3XSi4iVFojp8Yd49wh+/yOOIErT6GD+jG+O6SzFObWNll7I2k++1wKutzU8I1WuHnmVXA6WAuroGUis12/9LLe1tSEfegQudn+pn11Zymp/hvVapWQt5CP1fTHL09bKBBisjJVYETRQ6xpBDxCzSIgW3N4tdNWmJ4i0mMoJbdv5OVlMRCeDfUW/9OzBbkMz7GdUL23gFZz0zQwBPVHcmj1i0MCmRQZUX3gC3VQ9yp3DCgsDxNgKul1SHLvMbB8phCWwmKf+k4hEjmUSakOrl/ZuphSRkhvh4+iKFD6YzVeTRAFHoGtUE32JVSBa+jY1BCKe1S+6B4me7vitS9IXowLcXDmeZFrtuLdIh+pwZEYofQdbw8XfsnusIAXE7tIoZMok97M2RKnOZaLwruFAqgdrNn0tnwgWs9JvMSZdBO9kosK+Ei/CuFo43bWlsM9HC+KOTosbsRSuIa9UPxDBMmSNm7H8LyJi0ji3HNOu7gqt04u1DWBM5hvfzTeJD2SL0W5VJSHOOvWUh8ucgpGIOvxlfnw88nceU6Koa1Ty0UDgOHnzI6EnWdSqYhhb2TN8Ja23nYlmcze1eOTNJout84iZixeluA/2KMU8Hl8BlNze+DSKHtLnXJPkCfz14mp23W
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

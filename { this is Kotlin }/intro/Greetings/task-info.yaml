@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/Greetings.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: b/BjbP7JLgjxWLPq9f/8VdeB5On217z/ii5HIbQmvYsGzi6yZm9MyeTUIBgo42Jq2S9HyxahLTCts0FOIuB6hGh9xH5zPb8UUFXSKqIvnOsmbrLgNRn73LMmfi5vFLSDLaXWFlqlZLKbLLbY/30Qi7A0ExIARgeSIBVowunBZdo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/GreetingsTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

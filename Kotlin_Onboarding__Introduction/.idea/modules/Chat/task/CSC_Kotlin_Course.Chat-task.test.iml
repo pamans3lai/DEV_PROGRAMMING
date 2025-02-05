@@ -38,7 +38,9 @@
     <output-test url="file://$MODULE_DIR$/../../../../Chat/task/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../Chat/task/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../Chat/task/test" />
+    <content url="file://$MODULE_DIR$/../../../../Chat/task/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Chat/task/test" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="CSC_Kotlin_Course.Chat-task.main" />

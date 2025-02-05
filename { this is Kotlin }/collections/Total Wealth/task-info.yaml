@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/TotalWealth.kt
+    visible: true
+    placeholders:
+      - offset: 153
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 153
+        initialized_from_dependency: false
+        encrypted_possible_answer: n3dQCLCDDn4rkNLkzw7fK+4g5GgiocVhzKW3GWjfc+faVN45TKLuO2+n+bamwa0Xt0HepeD/vKF6eLg63GMgKOdkwbAKUbmcllgS+2ykHF5ZLHcHxOr07iFyb7UYfOH2DKrT08g3XW5AiOIbnBTT3YRMQAgtT2Jd+lM36S1yraAtFWYoBd+il4UM1dWy0dSyI9lGUj3DYV1hP8pG7er6iVg8S39JAkE/dNyjqNQOyFvR2hpB2lRJyKEkMfLwRkWd8RrcVb8mf73thKndM2ljEgHrBghw+drdxGsQCIqiPAenVYlmqzE2H9/62RCIcoNHIFSPcCBZBhXuKNoJTkRuIdEO6XZ9i3fk1QlE2UnLorzgBlrbOFhbvPnC69591VKnbU8LPkWH95fKmyAqTZ6m5OiXuIwTxvge8jNoNsp39Pbj7CjOTnohOtM3FQlTEdFnvWX9N7F16T+0Zm5tmGvVBOKUlqMpwjPrbpX2htFRmb5jsqQlGwnnzCjhn5RzMKrl06LRmZxHfM21EVI+IVhrq5A/aOGaJPWFtf90fZPZ5UZzc5lS0j+bly2BqSReX1aWpwYN978ptecVcoMtrD8Z7W8h5ei77R//+xOxH8BByu7AGtmOOe18OX6csPOTAy1T73WVa9WBffe3H6cJSuMqGklgyWftR0g/nAeJe0geMWTbjHQ6mQ3vblsK18BbwOWTqb5TbMne5xZ4w+N6cvzoBlTpgZzuogoEhY9w/+hceDrRyh7l0OX0IcphVneV6eCBe0IoZyJtlS7nrxt4hNdVVhQZY1uvn9FMSRfdyMSq5b3+IX+7ePogfWqydxOTs9r7vMQ1kUa2M29naQfQ+YPh91j/QYb7ZjSsJgSzSUoUdD6xX+9Q4AeKDwWWsWZN1V36xMfMen+8H/ydeDhDjHCRx6MFKu5+uupIpRe8HAfiMq11WNQNmtVhxDx6QEW+JXfEVXQBlA7/R4Z+UqhB2GioTilN5AHXjLW1ggz8HyFmnHj9dX2MIOQkVEG/hQ6i6xyWwMiWGHX8iExpA522DNgZIn0HuurmGXBBw5eQdIWPiEyrXyyLxEDp1qSeHG6mQSOANHo7U9acOtD4nOrFAUzSAP78g5I/lN3UbenTovwiZtra9BBkoYlSEGBhU2nqcHB0kpS2buEVnb6SbjCxlPAph5h/tM8hBJD9Crzx0tqfl9BpnD5G02LRtGdYFeB5ddNaTJ0Wzf201VxwXq63kYdy/kFWjhv2R71W9651/pZMcNQ=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/TotalWealthTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

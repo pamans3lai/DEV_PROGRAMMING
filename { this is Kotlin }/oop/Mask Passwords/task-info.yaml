@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/MaskDelegate.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 22
+        placeholder_text: // your code goes here
+        initial_state:
+          length: 22
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: bV62pQjn8vBoF9eSoWhe4Y2pYHpf2q1gi3E7CsHVoH5gSKLixDwCaZxzwLAlpmMaFzaMGDatmUbFNoUi7pGsCC9KMYwqqpOhekZA6c77oABSnX8yW3AFyvr6KkSFJTo4eCZX1weVkK4vP82PZ6T3m/H7URSMaz97MAi9hPYYAxy0lw+CdMcniG9+1ov5ZJc+d6Ksn6YgKZe6f8xjmYh6zaWcbVY+rBQL42737zpQZsPeWRuk30nztTc5kXWeJEmLC1bvqkfJE6KZdfFcAwYVW8Vz/pNh2vc797Hrn21PgreBIbYgcOZpNlyKVa3fJsbKlE5+BX+rtLq0Nw+Cvd+UpSqTn8Rvti8uK8qU9ZZJuNr4dDx4Y1MxyOMobReOALHyiNlpjvrN6tEP/lz1GgEubKCGvlQ37Vm8DJzRxWOHPO9b23u+83Hf4mVrIXGDQtYW5VUDUX+jhaHFiaF0HloobQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/MaskDelegateTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

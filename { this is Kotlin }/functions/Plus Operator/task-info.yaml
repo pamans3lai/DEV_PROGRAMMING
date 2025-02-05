@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/PlusOperator.kt
+    visible: true
+    placeholders:
+      - offset: 348
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 348
+        initialized_from_dependency: false
+        encrypted_possible_answer: oo/0e0wXSyrcfpOtnkoXQYYabW1iuBOttdlyF8tO95J8YlsyOyj3/INc+LjtXwkZhkH/0AsyC79GSPWx6VFRP8LbMeQBfp+mCrNoKfcc6QWPDpbYdeCG705TWrN9EAuaWKP/GonWgjHqI0acBID+7B6w3IsTvo0pmsfrCse2gLvNJ5B12oj56IvomVa/dSNTNtsnG0PC67epvMg+QHR65x7weAwpyOZHa72AB3ugkmt9lYUq2FVUb695YlvEXYs6
+        selected: false
+        status: Unchecked
+      - offset: 441
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 441
+        initialized_from_dependency: false
+        encrypted_possible_answer: LSiOBnI1KEUUwnr5WtDY5Re/HSZU0P02IKmw9l10+ecy8ALXGpEWpjqEMj3sxIaIudp1T5gEW4v0Zzisv+eZkU8jAVBn/vPsMTwtLySBJLo=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/PlusOperatorTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

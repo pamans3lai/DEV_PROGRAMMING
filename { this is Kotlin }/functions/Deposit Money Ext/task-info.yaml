@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/Account.kt
+    visible: true
+    learner_created: false
+  - name: src/DepositMoneyExt.kt
+    visible: true
+    placeholders:
+      - offset: 0
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 0
+        initialized_from_dependency: false
+        encrypted_possible_answer: hVyIr+mSpHl9w9r2cMI3Wl/HcAAF9kGVO+IeCBUp3Su5zD554rPTFyfFxlYHxXk1RzO7QzYRPqHyPhDvtxBpUSAbGcn/KN6D8IBUoTjPCrVlNuDhNJMoVjYfui8e88v2rxEd85Aafx8zBsZdsHHe7YMU12CR5WTmaic2RPi0XYZzE+RSi8vp9JK/jnA3JtD+8TAWcUHewmr+LIQSkfFuqw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/DepositMoneyExtTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

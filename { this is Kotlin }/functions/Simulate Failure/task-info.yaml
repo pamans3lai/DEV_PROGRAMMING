@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/SimulatedFailure.kt
+    visible: true
+    placeholders:
+      - offset: 27
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 27
+        initialized_from_dependency: false
+        encrypted_possible_answer: XLfQHDrZk3yumfHI/vGO6vV/7Fc15YqE5hUw+S4psnU=
+        selected: false
+        status: Unchecked
+      - offset: 56
+        length: 8
+        placeholder_text: = TODO()
+        initial_state:
+          length: 8
+          offset: 56
+        initialized_from_dependency: false
+        encrypted_possible_answer: q87KmQP0noiLXx5xj4TVwilyO/wQDqZCgdrR9EMDSGN2HPbs/529iUSj+XsLmhEECyz7RKfFNvEiOYf4KJEH1XYvLqTX0gnJ+DWRLuHarhnXKM1w4l+OoUNc8YwqaHsi
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/SimulatedFailureTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

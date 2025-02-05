@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/BalanceByCurrency.kt
+    visible: true
+    placeholders:
+      - offset: 153
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 153
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZhtFK3hRsNVISsDhnSe2Ad7JCLR/DYNNGBJnpJ5Q4m535qTixvmq5Tv8Q1btsh5GRyZdtbIznKKU9V4OnidqVXPJUV6QwCZP5gLRmEy91nLPTZTDrCoH4Q/nDlrcCPkU7k52arYuoCxKG+NVQpxevw9ImfED1WceGO+KqiriCfHiKJku3cZc7RUOcJXqf2+YF20B4JMSn/jP4KR7eRgKXcXmgnb0SBeh14IOKuykOLvjTCxRleGOm2uW/mcjDDN+cr/B5wJWbv+/Qn1TgJ9WzEUpubTuGlveM199hGQk0MdJ07LGC3R0T6NjzLx0b+GIF/65+e3Tl3rPbSc00AzETB07j/Q0uWRqwkshixZae0E=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/BalanceByCurrencyTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

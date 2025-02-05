@@ -1,5 +1,4 @@
 type: edu
-custom_name: Sealed classes
 files:
   - name: src/Task.kt
     visible: true
@@ -31,32 +30,33 @@ files:
           length: 14
           offset: 119
         initialized_from_dependency: false
-        encrypted_possible_answer: IGx4lnN9ZfqRJI15D7ICbrNM6GK9TkAnqaelovmPaLA=
+        encrypted_possible_answer: sSDd6IW/jyIN5mHgg8ur5oyi1zWIYEzXpjiuH8Mf5mQ=
         selected: false
         status: Unchecked
       - offset: 162
-        length: 4
-        placeholder_text: Expr
+        length: 6
+        placeholder_text: TODO()
         initial_state:
-          length: 4
+          length: 6
           offset: 162
         initialized_from_dependency: false
-        encrypted_possible_answer: U53bhbiXpFFJHSJ5Q5faNQ==
+        encrypted_possible_answer: CuldPLB6nkzjojEM8JmcGQ==
         selected: false
         status: Unchecked
-      - offset: 212
-        length: 4
-        placeholder_text: Expr
+      - offset: 214
+        length: 6
+        placeholder_text: TODO()
         initial_state:
-          length: 4
-          offset: 212
+          length: 6
+          offset: 214
         initialized_from_dependency: false
-        encrypted_possible_answer: U53bhbiXpFFJHSJ5Q5faNQ==
+        encrypted_possible_answer: CuldPLB6nkzjojEM8JmcGQ==
         selected: false
         status: Unchecked
     learner_created: false
   - name: test/Tests.kt
     visible: false
     learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Classes+/+Sealed+Classes
 status: Unchecked
 record: -1

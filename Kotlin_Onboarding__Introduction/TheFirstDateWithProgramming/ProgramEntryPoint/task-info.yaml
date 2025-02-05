@@ -11,12 +11,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLScylICclQIi9_YDjO7iuyRITDLn0Qgzw_aLxKxiishKAbL0qg/viewform?usp=pp_url&entry.2103429047=Introduction/The+first+day+with+programming/Program+entry+point
-status: Failed
+status: Solved
 feedback:
-  message: Incorrect
-  time: "Tue, 08 Oct 2024 13:56:47 UTC"
-  expected: |
-    Hello!
-  actual: |
-    My first program!
-record: -1
+  message: Congratulations!
+  time: "Fri, 31 Jan 2025 10:57:42 UTC"
+record: 3

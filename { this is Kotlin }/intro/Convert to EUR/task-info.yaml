@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/ConvertToEur.kt
+    visible: true
+    placeholders:
+      - offset: 59
+        length: 8
+        placeholder_text: = TODO()
+        initial_state:
+          length: 8
+          offset: 59
+        initialized_from_dependency: false
+        encrypted_possible_answer: E28FgY3iidk7BcYzozGqYXhf3xjn56jitpmVHNNRkiLnRUVm5QW06LK9c68oRBMOBbqo32VoVmwhGjbt5jjo12JyGyTaA+Z7Ms31zPiTQ/YpGzfJEVx99qs7f0/F+cD19/FqpeXuXu8ct5UJhTTuhlQRZKP4ypHoMvEyjrJshu+K30yuzzLp5F+WT6GQ4WOLO+wFpho2yUTOrxCaUtx/SLvtej8rF5SCfcmSRNU6l/VSclnTDtoah7m90vGHxpd7
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/ConvertToEurTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

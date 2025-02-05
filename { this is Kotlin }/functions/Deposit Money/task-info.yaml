@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/Account.kt
+    visible: true
+    learner_created: false
+  - name: src/DepositMoney.kt
+    visible: true
+    placeholders:
+      - offset: 88
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 88
+        initialized_from_dependency: false
+        encrypted_possible_answer: WXJm+JbpYZlYwW659i3fDmIyMqT1//ym0RZjN93CgA7YG+VvzJeH9iZE6TtoLHmoXWKY6KdON39TIagf0YwPkgKfB52HdnGVCMt6+Co1nuoC/fdZglGTxhVMQ+NCJXLbYNToWo8llbSmXlCJ4y+R7M9lpg0vyDmJpv5QjLovRxU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/DepositMoneyTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

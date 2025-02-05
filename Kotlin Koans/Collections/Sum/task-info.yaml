@@ -1,5 +1,4 @@
 type: edu
-custom_name: Sum
 files:
   - name: src/Task.kt
     visible: true
@@ -11,7 +10,7 @@ files:
           length: 6
           offset: 132
         initialized_from_dependency: false
-        encrypted_possible_answer: ZsrR5D+2Qh3oAXX7RumJVSl1snw/g9R2IXfOzwi7D7I3kWD17mPOccTx3Cb2KjPi7Q9KuJYF662Guf+3BT9GKNo3GsgOqZal43+azJupobU=
+        encrypted_possible_answer: ZsrR5D+2Qh3oAXX7RumJVSl1snw/g9R2IXfOzwi7D7LG/t4LEhaaNqMzwK9Jbo1VI1Mwej+jJchMMBoJrBxbBA==
         selected: false
         status: Unchecked
     learner_created: false
@@ -24,5 +23,6 @@ files:
   - name: test/TestShop.kt
     visible: false
     learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Sum
 status: Unchecked
 record: -1

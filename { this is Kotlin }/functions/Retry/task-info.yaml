@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: src/Retry.kt
+    visible: true
+    placeholders:
+      - offset: 22
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 22
+        initialized_from_dependency: false
+        encrypted_possible_answer: q2tblRldLCVVLHVm3kDbG7SHn5lOzhVRkLD1/FfxLtPO83UbLbv0hJE7qYAQkWbxFbiqbxKOL5JoCM9dAJeEUg6ohcj3jCKjinv+WeC4vObA/gPpreP1zMqanb9IyEg/g3Fy4xFaETwMh6nMxRysEF8nAQOMdFfgTULfgV14NmtykovR+bNYEMCLiJvW5j5jxzld/KIJIKDb3H230nHHpB6ONJFvazeriI3L7vDloyE=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/RetryTest.kt
+    visible: false
+    learner_created: false
+  - name: src/Util.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

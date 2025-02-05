@@ -1,5 +1,4 @@
 type: edu
-custom_name: Nothing type
 files:
   - name: src/Task.kt
     visible: true
@@ -18,5 +17,6 @@ files:
   - name: test/Tests.kt
     visible: false
     learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Nothing+Type
 status: Unchecked
 record: -1

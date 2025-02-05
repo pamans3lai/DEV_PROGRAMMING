@@ -1,5 +1,4 @@
 type: edu
-custom_name: Sequences
 files:
   - name: src/Task.kt
     visible: true
@@ -11,7 +10,7 @@ files:
           length: 6
           offset: 193
         initialized_from_dependency: false
-        encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4ss2wHG7AzwoknAR65y17SOUG+l3ZBePgXKyUW4pSl+oNiBaIgN2qHDgmLruCtxOIxoNRLiogg5EspiXvF5rwhhSPcpbQ/q39Ev/cPREN5L8Va9V3IRzYCpaDC90FY+pEXH8qYQOhohljTd0LjpO/DHGqmxo/fVFdrZT5a9FSaUqnKDdExduG6/aEC6Cu4B9cVinlZD9WeRiMuA2yJovzTPKf2o3ADWr+ACb8IrM4tDpt
+        encrypted_possible_answer: /4b7Te1I9FQsTvUfXeZ4ss2wHG7AzwoknAR65y17SOUG+l3ZBePgXKyUW4pSl+oNiBaIgN2qHDgmLruCtxOIxoNRLiogg5EspiXvF5rwhhSPcpbQ/q39Ev/cPREN5L8Va9V3IRzYCpaDC90FY+pEXB7e75Qfg3qCJbO6VFvnvDfUuhgTlre6I/Mwl1PKaqaq5wL6ukdBNL4KFmlmYtDNT7cE+Vs5T/M6Z2GAe5nPV7IKN8D8i6JDlteP3dDpikzX
         selected: false
         status: Unchecked
       - offset: 393
@@ -31,7 +30,7 @@ files:
           length: 6
           offset: 466
         initialized_from_dependency: false
-        encrypted_possible_answer: ZocLMxe+VftzD4HmgfaVO+rlo3f7oTnP+hMx23Y+gSO5YzC1eYGyxz0W7Oqe+4nF
+        encrypted_possible_answer: dW3aCW7ecJt48FesFWHZR58LPbLWQArWAJCNaJVCuZcaYxpeptCJv53Pl/xoUwcI
         selected: false
         status: Unchecked
     learner_created: false
@@ -44,5 +43,6 @@ files:
   - name: src/Shop.kt
     visible: true
     learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Collections+/+Sequences
 status: Unchecked
 record: -1

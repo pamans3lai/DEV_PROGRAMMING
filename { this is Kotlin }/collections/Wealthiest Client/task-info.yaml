@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/WealthiestClient.kt
+    visible: true
+    placeholders:
+      - offset: 271
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 271
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0FrvwPw8mHLC4J7p/IUF3MCrInS24w9ovt1vYTqS8hHmc41BNDzoEe71OGY5bOOGWVjdH6s0I3/iwDJCmUbHwkR/K6LW/i3eOmO1XZ+TG6Q7H+l2nM5tvmerCY0LZzxHq8RhVU30PwVYRxSsTX60Z7dpGl5HjatySL45/9C0P6lPOuPuAvz7uP3SNCW0iQdTN/aEdn/ppCFD0mFUWwTsdozvQIYPEYEK9DtJvJOiZQ8snxsiYZvnh9sIm99EZxLYYx8pDRD75kecHzkQetJyJBSm9m+E2uScbzmNRuw0es4bR+hY3U00ENSTQgWH8+IlBINk+r8E1Rt0IG6dt1bkNGQqjzaSUvV/rJ3laWjW2i0qYWcMifBC6Vjp7v1lPLrYoXxc7Sa1QvdQcUq22u3qqQjeZqym7lySjqVuvfBwfGBo/WZY4yGQrZnFhNzNMSgeJgOG2cDDX6AcqydzDtklv8h3jZTcovD003az253JGK4ZB6UDybHvvEpNOaqQiPdTSqsxqiD2WFW0/nYyZkEKrfhH67kDNSSzmZFjbIo9X+mSSeoVEynp3QOz5hK0v2cfFbJgQthct1sIHrt9Vevid+VIK/ix4zS7RwqyyrAP2edoUckYTM/MmoJVJwCwkapqaSERcuW/079XFDFeD/hMfauh5SOe8qEgHTZ2DzD2hKqDaxqyeuWzKkEGZoNtFRIJbGKu6hWWLt1q5DM4tcUT+51ODziNWsv8N4a+ca8POe9iosqkIx/J70eqb7xNM6xv2/rOz9Of9l6tUfc52DR2vXB/AsTqyOAdDYfkt0TPUVw0ATsZBtaiE11ldKH16XRynsI27gQyfj7QI+T+30rxsO6gS7c/HqyeIOZm/e0y75S9Ol13t+Tj8C7pc657d0FHuhP04v3JJIGDhgFV5okNQMilzJZ5HYtm9FAreSUORZjL4M6NPeFUiFWw6XbaGVDyQpTtNzudx99OCP3Zrl82j1BnwmtMzhUIPm+XC9oI5BJr+gpzdRWUY4QtnzVkI5WSgiVEUUbmB2AZQJ2RiGQbSJijyWf1eTotwnUL4lUFPRtY4rXuRoeRO+dm/7t2ldsJGfvSM3lgY7IQskg38R+XcvAHhKumlaE4CGAGfruU/Vh2sV4QcH1SQfK06iM7TFzhbGIJ46XGuzKSPkETSHIiqFmdesJA5nH8t3gjYhWkULFHBmWrHAQa2oTlzFBEOE9wLgIW380HCCr/pfPqCicvhxQGe+r1MHtEGXufqwckCsHWlWfpFZl+NqSpSE2FsX3tDCWzeFIe86t/m1evkdx1P3r1RJ8rV5Nj9PE7ZeQreJf4NYlRjpgs0aWnvnCEbHTiwhmUVcfBoalf7X+hVYsd++Mtke+tcu97j2mHQIzFnScWFLkqfWEkFLP8rfUSZ7K7GSxnTtzzotE11DozkPYQKlRYg23mOO2eFMPXMjlnbubtutjeK/ogot/hpE361tfRv9eNOfsaeId1nBqlj39KqOqtPFq6fTiv+O7NQGdRjyiTPqfkW1OMU2ulWrHcJaoF
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/WealthiestClientTest.kt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

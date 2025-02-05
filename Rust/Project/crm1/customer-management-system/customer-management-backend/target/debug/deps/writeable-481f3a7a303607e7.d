@@ -1,0 +1,11 @@
+/home/ai/DEV_PROGRAMMING/Rust/Project/crm1/customer-management-system/customer-management-backend/target/debug/deps/libwriteable-481f3a7a303607e7.rmeta: /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs
+
+/home/ai/DEV_PROGRAMMING/Rust/Project/crm1/customer-management-system/customer-management-backend/target/debug/deps/writeable-481f3a7a303607e7.d: /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs
+
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/lib.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/cmp.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/impls.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/ops.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/parts_write_adapter.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/testing.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/writeable-0.5.5/src/try_writeable.rs:

@@ -1,13 +1,17 @@
 ## Extension functions
 
-Learn about [extension functions](http://kotlinlang.org/docs/reference/extensions.html).
-Then implement the extension functions `Int.r()` and `Pair.r()` and make them convert Int and Pair to a `RationalNumber`.
+Learn about [extension functions](https://kotlinlang.org/docs/extensions.html#extension-functions).
+Then implement the extension functions `Int.r()` and `Pair.r()` and make them convert `Int` and `Pair` to a `RationalNumber`.
 
-`Pair` is a class defined in the standard library:
+[`Pair`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/) is a class defined in the standard library:
 
-```
-data class Pair(
+```kotlin
+data class Pair<out A, out B>(
     val first: A,
     val second: B
 )
 ```
+
+<div class="hint">
+  In the case of <code>Int</code>, the denominator is 1.
+</div>

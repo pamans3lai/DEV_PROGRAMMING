@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/IbanValidation.kt
+    visible: true
+    placeholders:
+      - offset: 195
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 195
+        initialized_from_dependency: false
+        encrypted_possible_answer: oyBxP4sAPFS5AhYxd2UaE5cefZC17l7Uym/i1maXRNWpSeKp3lbEuUIXjzWB35u+Kdg2X8dAff8OX3IPEmnM05CyVIuHhnBrETrnT8HDiWdh+lBN6R4+A4w7Lik1ddts
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/IbanValidationTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

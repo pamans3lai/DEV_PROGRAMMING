@@ -1,0 +1,12 @@
+/home/ai/DEV_PROGRAMMING/Rust/Project/crm1/customer-management-system/customer-management-backend/target/debug/deps/libhalf-ee2f8fa6415bff83.rmeta: /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/lib.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat/convert.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch/x86.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/leading_zeros.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/slice.rs
+
+/home/ai/DEV_PROGRAMMING/Rust/Project/crm1/customer-management-system/customer-management-backend/target/debug/deps/half-ee2f8fa6415bff83.d: /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/lib.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat/convert.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch/x86.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/leading_zeros.rs /home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/slice.rs
+
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/lib.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/bfloat/convert.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/binary16/arch/x86.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/leading_zeros.rs:
+/home/ai/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.4.1/src/slice.rs:

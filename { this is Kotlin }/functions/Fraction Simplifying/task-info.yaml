@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/FractionSimplifying.kt
+    visible: true
+    placeholders:
+      - offset: 111
+        length: 6
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 111
+        initialized_from_dependency: false
+        encrypted_possible_answer: ZYPoffvVqKlKX3UBjjDfbkVAkCDvtehO/jAOmZbURbhscfGJmX0AAgrBdQ0MBhIWY4tHB42EeiClEDwvkVWI9NZsu8NxvpXMGa15gwWfqq0dqcjtDeGFVvAy7m+Ezu7E9BtcuOresO+HJUFzg5F+nbt4Sdv/1wtdTy1QRkMTvSzxW+6FGdcDAv0060iwcqSdVnwBdTyy7anNAqUbNAn5K3j9/a6+Ks9JXbd5jny9Q0rkt1UOh9LhGhqL2mbcthZhFg5sAezEnhRzibrrf1hczA==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/FractionSimplifyingTest.kt
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
