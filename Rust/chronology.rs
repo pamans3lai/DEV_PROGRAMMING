@@ -46,3 +46,10 @@ ilmu baru: cargo watch -q -c -x 'run -q'
 untuk menampilkan result coding rust setelah build yang lebih clean
 
 update rust tiap 1 jam.
+
+today Maret 14, 2025. 
+lewat hampir 2 pekan kuran 1 pekan sudah tidak update rust
+harusnya update tiap hari 10 jam
+kehilangan kesempatan menguasai 10 x 50 hari = 500 jam rust
+
+
