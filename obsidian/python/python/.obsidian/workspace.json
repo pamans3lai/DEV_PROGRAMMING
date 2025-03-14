@@ -11,14 +11,17 @@
             "id": "a4cfddf9cf137907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Basic/Condition Expression.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Condition Expression"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -40,7 +43,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,15 +168,16 @@
   },
   "active": "a4cfddf9cf137907",
   "lastOpenFiles": [
-    "Basic/Loops.md",
-    "create a link.md",
-    "Basic/Modules and Packages.md",
+    "Untitled.canvas",
+    "Basic/Data Structure.md",
     "Basic/Classes and Objects.md",
     "Basic/Function.md",
+    "Basic/Loops.md",
     "Basic/String.md",
     "Basic/Variables.md",
     "Basic/Condition Expression.md",
-    "Basic/Data Structure.md",
+    "create a link.md",
+    "Basic/Modules and Packages.md",
     "Welcome.md",
     "Basic",
     "Why Phyton"
