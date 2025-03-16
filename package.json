@@ -1,6 +1,9 @@
 {
 	"dependencies": {
+		"@happy-dom/global-registrator": "^17.4.4",
+		"@testing-library/svelte": "^5.2.7",
 		"ruby": "^0.6.1",
+		"svelte": "4",
 		"yarn": "^1.22.22"
 	}
 }
