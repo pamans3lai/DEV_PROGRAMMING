@@ -52,4 +52,7 @@ lewat hampir 2 pekan kuran 1 pekan sudah tidak update rust
 harusnya update tiap hari 10 jam
 kehilangan kesempatan menguasai 10 x 50 hari = 500 jam rust
 
+    today Maret, 7 2005.
+kelewat 3 pekan sejak tgl 14 Maret
+
 
