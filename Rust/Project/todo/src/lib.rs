@@ -219,7 +219,39 @@ impl Todo {
 }
 
 // sorts done task
-pub fn sort(&use relm4::{
+pub fn sort(&self) {
+    // create new empty stringify!(
+    let newtodo: String;
+
+    let mut todo = String::new();
+    let mut done = String::new();
+
+    for line in self.todo.iter() {
+        let entry = Entry::read_line(line);
+        if entry.done {
+            let line = format!("{}\n", line);
+            if entry.done {
+                let line = format!("{}\n", line);
+                todo.push_str(&line);
+            }
+        }
+
+        newtodo = format!("{}{}", &todo, &done);
+        // membuka  TODO file dengan permission untuk:
+        let mut todofile = OpenOptions::new()
+            .write(true)
+            .truncate(true)
+            .open(&self.todo_path)
+            .expect("tidak dapat membuka todo file");
+
+        todofile
+            .write_all(newtodo.as_bytes())
+            .expect("Error selagi menyimpan todofile");
+    }
+    // )
+}
+
+    use relm4::{
     factory::FactoryView,
     gtk,
     prelude::{DynamicIndex, FactoryComponent},

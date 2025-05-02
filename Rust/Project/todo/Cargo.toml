@@ -1,0 +1,12 @@
+[package]
+name = "todo-bin"
+version = "0.1.0"
+edition = "2024"
+description = "todo list"
+
+[dependencies]
+colored = "2"
+directiories = "4.0"
+[[bin]]
+name = "todo"
+path = "src/main.rs"
