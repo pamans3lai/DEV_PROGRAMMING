@@ -12,3 +12,9 @@ eeeedunnnnn!
 gimana mau maju kalau gaa ada progres kayak gini???
 solusi:
   saatu hari 5 program. alokasi 1 jam ruby
+
+SEKARANG TANGGAL 16 DESEMBER 2026.
+sudah 9 bulan sejak terakhir kali belajar ruby
+SANGAT KURANG SEKALI UNTUK DISIPLIN
+sudah lewat satu tahun 3 bulan sejak pertama kali memulai. Dan belum ada progress sama sekali
+Solusi: jalankan solusi sebelumnya. 1 jam untuk 5 bahasa pemrograman. Ga harus ahli. Yg penting disiplin dl. 
