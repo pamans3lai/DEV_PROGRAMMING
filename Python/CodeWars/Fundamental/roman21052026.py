@@ -6,4 +6,6 @@ def roman_to_int(s: str) -> int:
             total -= roman_values[s[i]]
         else:
             total += roman_values[s[i]]
-            return total
+        return total
+
+print (roman_to_int("MCMXCIV"))
