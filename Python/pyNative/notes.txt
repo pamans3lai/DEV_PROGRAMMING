@@ -1,0 +1,3 @@
+Hello, ini adalah catatan pertama saya.
+Python file  handling is simple.
+Enf of file.
