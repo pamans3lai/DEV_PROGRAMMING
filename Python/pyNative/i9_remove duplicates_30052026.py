@@ -1,1 +1,1 @@
-def
+def remove_duplicates(items):
