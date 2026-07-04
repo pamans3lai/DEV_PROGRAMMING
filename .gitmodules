@@ -1,0 +1,3 @@
+[submodule "x"]
+	path = x
+	url = https://github.com/pamans3lai/x.git
